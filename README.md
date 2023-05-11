@@ -3,7 +3,7 @@
 <hr />
 
 
-<img src="" width="100%">
+<center><img src="https://beta.allen0s.com/app/Icon.png" width="10%"></center>
 
 
 ## 🚀 Getting Started
@@ -12,7 +12,7 @@ Alive requires macOS 13 Ventura, and either an Intel or Apple Silicon processor.
 
 ### Direct Download
 
-Download a `.dmg` containing the latest version [👉 here 👈](allen0s.com).
+Download a `.dmg` containing the latest version [👉 here 👈](https://github.com/thememoriescompany/alive-dmg/releases/download/Beta/Memento.1.8.dmg).
 
 ### Building from Source
 
