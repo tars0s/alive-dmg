@@ -1,12 +1,12 @@
 
-<h3 align="center">Deep Search Your YouTube Lists</h2>
+<h3 align="center">AI Search Your YouTube Lists</h2>
 <hr />
 
 
-<center><img src="https://beta.allen0s.com/app/Icon.png" width="10%"></center>
+<center><img src="https://avatars.githubusercontent.com/u/124775653" width="10%"></center>
 
 
-## 🚀 Getting Started
+## Getting Started
 
 Alive requires macOS 13 Ventura, and either an Intel or Apple Silicon processor.
 
